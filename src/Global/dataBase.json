@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Peter",
+    "email": "Peter@gmail.com",
+    "stack": "FullStack",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB, Python, Azure, TensorFlow",
+    "image": "img/6.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Bukky",
+    "email": "Bukky@gmail.com",
+    "stack": "FrontEnd",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB,",
+    "image": "img/3.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Ubani",
+    "email": "Ubani@gmail.com",
+    "stack": "FullStack",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB, Python",
+    "image": "img/Uban.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Ndidi",
+    "email": "Ndidi@gmail.com",
+    "stack": "FullStack",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB, Azure",
+    "image": "img/1ds.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Kelechi",
+    "email": "Kelechi@gmail.com",
+    "stack": "FrontEnd",
+    "desc": "HTML, CSS, JS, React, Firebase, MongoDB",
+    "image": "img/10.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Olorunda",
+    "email": "Olorunda@gmail.com",
+    "stack": "FrontEnd",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB",
+    "image": "img/12.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Gideon",
+    "email": "Gideon@gmail.com",
+    "stack": "FullStack",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB, Python, ",
+    "image": "img/9.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Romanus",
+    "email": "Romanus@gmail.com",
+    "stack": "FrontEnd",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB",
+    "image": "img/4.jpeg"
+  },
+  {
+    "id": "10",
+    "name": "Timothy",
+    "email": "Timothy@gmail.com",
+    "stack": "FrontEnd",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB, ",
+    "image": "img/5.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Osas",
+    "email": "Osas@gmail.com",
+    "stack": "FronEnd",
+    "desc": "HTML, CSS, JS, React, Node, Firebase, MongoDB, ",
+    "image": "img/12.jpg"
+  }
+]
