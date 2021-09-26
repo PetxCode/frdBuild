@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Bukky",
+    "stack": "FrontEnd",
+    "core": "HTML, CSS, JS, React, Node, Firebase, MongoDB",
+    "img": "img/3.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Ndidi",
+    "stack": "FullStack",
+    "core": "JS, React, Node, Azura, Firebase, MySQL, MongoDB",
+    "img": "img/1.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Gideon",
+    "stack": "FullStack",
+    "core": "JS, React, Node, Azura, Firebase, MySQL, MongoDB",
+    "img": "img/2.png"
+  },
+  {
+    "id": "4",
+    "name": "Peter",
+    "stack": "FullStack",
+    "core": "Python, TensorFlow, JS, React, Node, Azura, Firebase, MySQL, MongoDB",
+    "img": "img/6.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Ubani",
+    "stack": "FullStack",
+    "core": "Python, JS, React, Node, Firebase, MySQL, MongoDB",
+    "img": "img/4.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Samuel",
+    "stack": "FullStack",
+    "core": "JS, React, Node, Firebase, MySQL, MongoDB",
+    "img": "img/10.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Kelechi",
+    "stack": "FullStack",
+    "core": "HTML, CSS, JS, React, Node, Firebase, MongoDB",
+    "img": "img/11.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Osas",
+    "stack": "FullStack",
+    "core": "JS, React, Node, Firebase, MySQL, MongoDB",
+    "img": "img/9.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Cynthia",
+    "stack": "FrontEnd",
+    "core": "JS, React, Node, Firebase, MongoDB",
+    "img": "img/7.png"
+  },
+  {
+    "id": "10",
+    "name": "Romanus",
+    "stack": "FrontEnd",
+    "core": "JS, React, Node, Firebase, MongoDB",
+    "img": "img/a1.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Stalla",
+    "stack": "FrontEnd",
+    "core": "JS, React, Node,Firebase,MongoDB",
+    "img": "img/12.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Judith",
+    "stack": "FrontEnd",
+    "core": "JS, React, Node,Firebase,MongoDB",
+    "img": "img/8.png"
+  }
+]
