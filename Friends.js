@@ -1,8 +1,17 @@
-import React from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
 import { Button } from "antd";
+import { useSelector, useDispatch } from "react-redux";
+import data from "./dataBase.json";
+import { addUser, addFriend } from "./friendSlice";
 
 const Friends = () => {
+  const user = useSelector((state) => state.friendReducer.user);
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(addUser(data));
+  }, []);
   return (
     <Container>
       <Wrapper>

@@ -1,21 +1,26 @@
 import React from "react";
 import styled from "styled-components";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Friends from "./Friends/Friends";
-import Header from "./Friends/Header";
-import FriendList from "./Friends/FriendList";
 import "antd/dist/antd.css";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+
+import SocialApp from "./SocialApp/SocialApp";
+import SocialFriends from "./SocialApp/SocialFriends";
+import SocialDetails from "./SocialApp/SocialDetails";
+import SocialHeader from "./SocialApp/SocialHeader";
 
 const App = () => {
   return (
     <Container>
-      <BrowserRouter>
-        <Header />
-        <Switch>
-          <Route exact path="/" component={Friends} />
-          <Route exact path="/friendlist" component={FriendList} />
-        </Switch>
-      </BrowserRouter>
+      <Wrapper>
+        <BrowserRouter>
+          <SocialHeader />
+          <Switch>
+            <Route exact path="/" component={SocialApp} />
+            <Route exact path="/friends" component={SocialFriends} />
+            <Route exact path="/details" component={SocialDetails} />
+          </Switch>
+        </BrowserRouter>
+      </Wrapper>
     </Container>
   );
 };
